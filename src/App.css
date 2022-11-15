@@ -1,0 +1,22 @@
+.App {
+    padding: 5px 15px;
+}
+
+.navbar {
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    margin: 5px -15px;
+    background: darkslateblue;
+}
+
+.navbar__links {
+    margin: auto;
+}
+
+.link__text {
+    color: lightblue;
+    text-decoration: none;
+    margin-right: 1em;
+}
